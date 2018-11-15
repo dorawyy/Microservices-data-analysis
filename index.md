@@ -1,6 +1,6 @@
 For open coding, two of the authors of the paper independently read the transcripts line by line and identified codes - _key ideas contained in data_. When looking for codes, we searched for the best phrase that describes conceptually what we believe is indicated by the raw data. On a weekly basis, all the authors met to discuss the identified concepts and to refine and merge them if needed. That was done using card sorting: each card represented a quote labeled with the codes, and we grouped the quotes and refined the codes, as needed. 
 
-<img src="card_sorting_exercise8.jpeg" width="300">  <img src="card_sorting_exercise12.jpeg" width="300">
+<!-- <img src="card_sorting_exercise8.jpeg" width="300">  <img src="card_sorting_exercise12.jpeg" width="300"> -->
 
 [![](card_sorting_exercise8.jpeg)](card_sorting_exercise8.jpeg)  [![](card_sorting_exercise12.jpeg)](card_sorting_exercise12.jpeg)
 
