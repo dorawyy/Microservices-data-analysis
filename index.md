@@ -4,8 +4,6 @@ For open coding, two of the authors of the paper independently read the transcri
 
 Conceptually similar codes were grouped together to form categories. Our mapping of codes -> concepts -> categories is below. 
 
-<img src="mindmap.png" width="1800">
-
 [![](mindmap.png)](mindmap.png)
 
 Digial version can be downloaded [here](MicroserviceStudy.mm). We cannot publically share quotes not included in the paper at the moment due to confidentiality issues; we will reach out to the study participants and ask for their consent, and then update the map and the manuscript. 
