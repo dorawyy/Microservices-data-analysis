@@ -2,6 +2,8 @@ For open coding, two of the authors of the paper independently read the transcri
 
 <img src="card_sorting_exercise8.jpeg" width="300">  <img src="card_sorting_exercise12.jpeg" width="300"> 
 
+[![](card_sorting_exercise8.jpeg)](card_sorting_exercise8.jpeg)  [![](card_sorting_exercise12.jpeg)](card_sorting_exercise12.jpeg)
+
 Conceptually similar codes were grouped together to form categories. Our mapping of codes -> concepts -> categories is below. 
 
 [![](mindmap.png)](mindmap.png)
