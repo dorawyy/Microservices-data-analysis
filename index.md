@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+For open coding, two of the authors of the paper independently read the transcripts line by line and identified codes â _key ideas contained in data_. When looking for codes, we searched for the best phrase that describes conceptually what we believe is indicated by the raw data. On a weekly basis, all the authors met to discuss the identified concepts and to refine and merge them if needed. That was done using card sorting: each card represented a quote labeled with the codes, and we grouped the quotes and refined the codes, as needed. 
 
-You can use the [editor on GitHub](https://github.com/i-am-an-anonymous-user/Microservices-data-analysis/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<img src="card_sorting_exercise8.jpeg" width="400">  <img src="card_sorting_exercise12.jpeg" width="400"> 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Conceptually similar codes were grouped together to form categories. Our mapping of codes -> concepts -> categories is below. Digial version can be downloaded [here](MicroserviceStudy.mm). We cannot publically share quotes not included in the paper at the moment due to confidentiality issues; we will reach out to the study participants and ask for their consent, and then update the map and the manuscript. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img src="mindmap.png" width="800">
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/i-am-an-anonymous-user/Microservices-data-analysis/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
